@@ -1,0 +1,54 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="tnemesis.cf" resolutions="1x" timestamp="1448392377986">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4187536338" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u342.php" crc="4094683180" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="homepage-favicon.ico" crc="265814691" ref="phone>index"/>
+    <file name="nemesis_tiger.png" crc="475413235" ref="index"/>
+    <file name="wallpaper_ohne_kopf.jpg" crc="3827085537" ref="index"/>
+    <file name="nemesis_transparent_gelb.png" crc="244778010" seo="true" ref="index"/>
+    <file name="svg 147785x169.svg" crc="474152265" ref="index"/>
+    <file name="svg 147785x169_poster_.png" crc="7556687" ref="index"/>
+    <file name="csgolpc01.jpg" crc="421967050" ref="index"/>
+    <file name="nemesis_blau_kreis.png" crc="421602846" seo="true" ref="index"/>
+    <file name="nemesis_purple_kreis.png" crc="279285660" seo="true" ref="index"/>
+    <file name="nemesis_grün_kreis.png" crc="464081815" seo="true" ref="index"/>
+    <file name="nemesis_orange_kreis.png" crc="4214185513" seo="true" ref="index"/>
+    <file name="nemesis_gelb_kreis.png" crc="3770414446" seo="true" ref="index"/>
+    <file name="nemesis_tiger_kreis.png" crc="65967068" seo="true" ref="index"/>
+    <file name="12b3847782da9129cdbb288e1a6622fe_large.jpg" crc="58470254" ref="index"/>
+    <file name="u350-17.png" crc="4132872539" ref="index"/>
+    <file name="u350-17-r.png" crc="76075105" ref="index"/>
+    <file name="u350-17-m.png" crc="12035200" ref="index"/>
+    <file name="u350-17-fs.png" crc="203229493" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="331691596" seo="true" mt="1446164746935" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="333121980" seo="true" mt="1446164746938" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4068967914" seo="true" mt="1448392376147" redirect="true"/>
+</manifest>
